@@ -1,0 +1,8 @@
+ng new dashboard
+
+remove all  unnecessary code in app.content.html 
+
+ng add @angular/material
+
+npm i highcharts-angular --save
+npm i highcharts --save
