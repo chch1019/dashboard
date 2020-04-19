@@ -11,6 +11,8 @@ export class AreaComponent implements OnInit {
 
   chartOptions: {};
   Highcharts = Highcharts;
+  
+  
 
   constructor() { }
 
